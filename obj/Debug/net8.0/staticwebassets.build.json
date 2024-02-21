@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ka6b2jefcGfIvS+VVGLXy6ZvCXHDXjermK1UPYJF2I4=",
+  "Source": "AzureBlogStorageAPI",
+  "BasePath": "_content/AzureBlogStorageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
